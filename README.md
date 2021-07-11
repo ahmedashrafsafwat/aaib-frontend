@@ -1,5 +1,9 @@
 # AAIB FULLSTACK Task (FRONTEND)
 
+By default the react app connects to the backend on localhost & port 5000
+to change that just change the base url & port of keys `REACT_APP_BACKEND_BASE`
+`REACT_APP_BACKEND_PORT` in the `.env` to the base url or port that works for you
+
 ### To run this project you can run:
 
 1. the following comands
